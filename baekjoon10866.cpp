@@ -153,7 +153,3 @@ int main(void)
 	return 0;
 
 }
-
-
-
-출처: https://jaimemin.tistory.com/837 [꾸준함]
