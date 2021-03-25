@@ -43,7 +43,7 @@ string solution(vector<int> numbers, string hand) {
 			}
 		}
 	}
-	else {
+	else if (hand == "left"){
 		for (int i = 0; i < numbers.size(); i++)
 		{
 			if (numbers[i] == 1 || numbers[i] == 4 || numbers[i] == 7) {
